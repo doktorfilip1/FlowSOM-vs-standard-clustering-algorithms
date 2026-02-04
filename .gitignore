@@ -2,3 +2,6 @@
 .venv/
 .env/
 venv/
+
+src/Algorithms/.RData
+src/Algorithms/.Rhistory

@@ -55,7 +55,7 @@ for(name in names(datasets)){
 
   fsom <- FlowSOM(
     X,
-    scale = TRUE,
+    scale = FALSE,
     colsToUse = 1:ncol(X),
     xdim = xdim,
     ydim = ydim,
